@@ -1,0 +1,26 @@
+{
+  "name": "d3.chart.arclabels",
+  "version": "0.1.0",
+  "authors": [
+    "Pete Baker <peteb4ker@gmail.com>"
+  ],
+  "description": "Arc labels control for the d3.chart framework",
+  "main": "d3.chart.arclabels.js",
+  "keywords": [
+    "d3.chart",
+    "chart",
+    "arc",
+    "label"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3.chart": "~0.2.0"
+  }
+}
