@@ -8,4 +8,4 @@ chart.
 
 ## Usage
 
-* [http://peteb4ker.github.io/d3.chart/doc/classes/d3.chart.ArcLabels.html](d3.chart.arclabels API documentation)
+* [d3.chart.arclabels API documentation](http://peteb4ker.github.io/d3.chart/doc/classes/d3.chart.ArcLabels.html)
